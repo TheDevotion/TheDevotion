@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheDevotion
+- 👋 Hi, I’m Dipak Jadhav
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning Blockchain Development
 - 💞️ I’m looking to collaborate on ...
