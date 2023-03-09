@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dipak Jadhav
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Blockchain Development
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
