@@ -63,8 +63,9 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/TheDevotion/TheDevotion/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TheDevotion&theme=tokyo-night&hide_border=true" alt="Contribution Graph">
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheDevotion&style=for-the-badge&color=blue" alt="Profile views">
